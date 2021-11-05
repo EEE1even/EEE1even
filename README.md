@@ -2,7 +2,7 @@
 - 👀 I’m interested in fitness
 - 🌱 I’m currently learning bigdata
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 1347597531@qq.com 
 
 <!---
 EEEasonlove/EEEasonlove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
